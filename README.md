@@ -1,7 +1,7 @@
 # Code Institute
 
-Welcome USER_NAME,
+Welcome Reader,
 
-We have preinstalled all of the tools you need to get started.
+This repository is created to follow the course content
+>> jQuery Library - Writing Less JavaScript  jQuery Introduction  Writing our first jQuery script
 
-Happy coding!
